@@ -1,0 +1,2 @@
+1) O tempo de busca será O(n), pois a árvore já sabe onde deve ir durante a busca
+2) Continua sendo O(n), já que terá que percorrer todos os nós até chegar em um nó folha
